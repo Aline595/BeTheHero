@@ -10,7 +10,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>
+  <a href="#-imagens">Imagens</a>
 
 <br>
 
@@ -54,15 +54,12 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 ### Mobile
 
 <p align="center">
-  <img alt="splash" src=".github/splash.png" width="100%">
+  <img alt="splash" src=".github/splash.png" >
+  <img alt="detalhes" src=".github/detalhes.png">
 </p>
 
 <p align="center">
-  <img alt="detalhes" src=".github/detalhes.png" width="100%">
-</p>
-
-<p align="center">
-  <img alt="lista" src=".github/lista.png" width="100%">
+  <img alt="lista" src=".github/lista.png">
 </p>
 
 ## 🔖 Layout
